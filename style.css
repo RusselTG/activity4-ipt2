@@ -1,0 +1,25 @@
+body {
+  background-image: radial-gradient(blue, gray, violet);
+}
+
+h1 {
+  color: white;
+  text-align: center;
+}
+h2 {
+  color: black;
+  text-align: center;
+}
+
+h3 {
+  color: white;
+  font-family: verdana;
+  font-size: 20px;
+  text-align: center;
+}
+.me {
+  border: 5px outset black;
+  background-color: gray;    
+  text-align: center;
+  border-radius: 50px;
+}
